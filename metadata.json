@@ -1,0 +1,6 @@
+{
+  "name": "دوام بلس — نظام إدارة شؤون الموظفين والرواتب ومصاريف الفروع",
+  "description": "تطبيق ويب متكامل لتسجيل حضور وانصراف الموظفين عبر الهاتف، إدارة شؤون الموظفين، المسحوبات النقدية اليومية، حساب صافي الرواتب، ومصروفات الفروع.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
